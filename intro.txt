@@ -1,2 +1,3 @@
 My project begins!
 This is a new feature.
+This is the second new feature.
